@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.236.192.116:8081/repository/chakrinexus/</url>
+		    <url>http://3.235.138.79:8081/repository/nexus1/</url>
 		</repository>
   	</distributionManagement>
 	
